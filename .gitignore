@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/packages
+/CustomViewCell/CustomViewCell/bin/Debug
+/CustomViewCell/CustomViewCell/obj/Debug
+/CustomViewCell/CustomViewCell.Android/bin/Debug
+/CustomViewCell/CustomViewCell.Android/obj
+/CustomViewCell/CustomViewCell.iOS/obj/iPhone/Debug
+/CustomViewCell/CustomViewCell.UWP/obj/x86/Debug
+/.vs/CustomViewCell/v15
